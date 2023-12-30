@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     buttonsContainer: {
         flexDirection: 'row'
     },
-    buttonContainer:{
-        flex:1
+    buttonContainer: {
+        flex: 1
     }
 })
